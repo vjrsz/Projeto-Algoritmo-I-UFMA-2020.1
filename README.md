@@ -26,7 +26,15 @@
 <br><br>
 <h2 align="center">by Valter Junior</h2>
 <p align="center">
-<a href="https://www.instagram.com/vjrx._/"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/instagram/png%20(11).png"/></a>
-<a href="#"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/vjrx/png%20(1).png"/></a>
-<a href="https://www.frontendmentor.io/profile/junior2105"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/frontendmentor/png%20(2).png"/></a>
+<a href="https://www.instagram.com/vjrx._/"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/instagram.svg"/></a>
+<a href="https://github.com/junior2105/">
+<img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/github.svg"/>
+</a>
+</p>
+
+<br><br>
+<p align="center">
+<a href="#" >
+<img width=25 height=25 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/v.svg"/><img width=25 height=25 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/j.svg"/><img width=25 height=25 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/r.svg"/>
+</a>
 </p>
