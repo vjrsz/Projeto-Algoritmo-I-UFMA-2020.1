@@ -23,18 +23,11 @@
 - Seta pra baixo - Mover pra baixo
 - ENTER - Entrar
 
-<br><br>
 <h2 align="center">by Valter Junior</h2>
 <p align="center">
-<a href="https://www.instagram.com/vjrx._/"><img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/instagram.svg"/></a>
+<a href="https://www.instagram.com/vjrx._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://github.com/junior2105/">
-<img width=50 height=50 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/github.svg"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
-
-<br><br>
-<p align="center">
-<a href="#" >
-<img width=25 height=25 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/v.svg"/><img width=25 height=25 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/j.svg"/><img width=25 height=25 src="https://raw.githubusercontent.com/junior2105/SocialMediasIcons/master/r.svg"/>
-</a>
-</p>
+<a href="#">
+<img src="https://img.shields.io/badge/VJR-9400d3?style=for-the-badge"/>
